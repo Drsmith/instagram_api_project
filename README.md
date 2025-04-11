@@ -69,7 +69,7 @@ Due to issues with receiving SMS OTP from Meta, the actual Instagram Graph API c
 
 ## 🌍 Live Demo
 
-👉 [Add Netlify or Vercel deployed link here]
+👉 [https://instagram-api-project.vercel.app/]
 
 ---
 
