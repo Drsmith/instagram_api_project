@@ -59,11 +59,6 @@ This is a full-stack web application built as part of the Full Stack Developer A
 
 Due to issues with receiving SMS OTP from Meta, the actual Instagram Graph API could not be integrated. Instead, mock user data and media feeds are used to simulate API responses for the assessment.
 
----
-
-## 📹 Demo Video
-
-👉 [Add Loom or YouTube link here]
 
 ---
 
